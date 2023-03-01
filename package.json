@@ -5,7 +5,7 @@
   "scripts": {
     "test": "jest",
     "start": "parcel ./public/index.html",
-    "build": "start parcel build ./public/index.html"
+    "build": " parcel build ./public/index.html"
   },
   "keywords": [
     "anime"
