@@ -80,10 +80,10 @@ export const dummyresources = [
   },
   {
     id: 4,
-    animetitle: "Gintama°",
+    animetitle: "Gintama",
     image: "https://cdn.myanimelist.net/images/anime/3/72078.jpg",
-    Synonyms: "Gintama' (2015)",
-    Episodes: 51,
+    Synonyms: "Gintama' (2009)",
+    Episodes: 367,
     Genres: ["Action", "Comedy", "Sci-Fi"],
     Theme: "Gag Humor, Historical, Parody, Samurai",
     Demographic: "Shounen",
