@@ -1,6 +1,6 @@
 import React from "react";
-import AnimeCard from "./AnimeCard";
-import {AnimeData}from "./resources";
+import AnimeCard from "./components/AnimeCard";
+import {AnimeData}from "./assets/resources";
 
 
 const App = ()=>{

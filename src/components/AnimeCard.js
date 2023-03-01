@@ -35,7 +35,7 @@ const AnimeCard = ({
         </button>
       </div>
 
-      {showCharacters && characters?.map((char) => <Characters {...char} />)}
+      {showCharacters && characters?.map((char) => <Characters key={char.name} {...char} />)}
     </div>
   );
 };
