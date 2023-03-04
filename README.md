@@ -3,7 +3,7 @@
 # https://fastidious-custard-d9cf11.netlify.app/
 
 
-```json
+```javascript
 
 const dummyresources = [
   {
